@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
-//    int m,n;
+    int m,n;
+    m=10;
 }
 
