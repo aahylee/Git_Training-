@@ -9,4 +9,5 @@ int main()
     m=10;
     n=20;
    int k=200;
+   cout << k <<'\n';
 }
